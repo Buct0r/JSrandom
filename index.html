@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSrandom</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+    <link rel="icon" href="JSrandomlogo.png">
+</head>
+<body>
+    
+    <br><img src="JSrandomlogo.png" alt="JSrandom logo">
+    
+    <h1 id="title">A random password generator made with Javascript</h1>
+
+    <div class="divs">
+        <label>Password length:</label><br>
+        <input type="number" id="Length" alt="Put here the length of the password you want to generate"><br>
+
+        <label>Lowercase</label>
+        <input id="lower" class="check"  type="checkbox" alt="Check this if you want to include lowercase characters"><br>
+
+        <label>Uppercase</label>
+        <input id="upper" class="check" type="checkbox" alt="Check this if you want to include uppercase characters"><br>
+
+        <label>Symbols</label>
+        <input id="symb" class="check" type="checkbox" style="margin-left: 23px;" alt="Check this if you want to include symbols"><br>
+
+        <label>Numbers</label>
+        <input id="numb" class="check" type="checkbox" style="margin-left: 18px;" alt="Check this if you want to include numbers"><br><br>
+
+        <button type="submit" id="generate" alt="click here to generate the password"><a>Generate</a></button><br><br>
+
+        <span>Generated password:</span><br>
+        <div id="Password" alt="There you have it, your generated password"></div><br><br>
+
+
+    </div><br><br>
+
+    
+    <footer></footer>
+
+
+    <script src="index.js"></script>
+</body>
+</html>
