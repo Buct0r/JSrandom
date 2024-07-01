@@ -4,7 +4,7 @@
 ## A random password generator made with Javascript
 JSrandom is a secure random password generator, built in HTML, CSS and most importantly in Javascript.
 
-Your password will be generated in the matter of seconds after choosing the parameters you wnat for your password. 
+Your password will be generated in the matter of seconds after choosing the parameters you want for your password. 
 * **Lenght**
 * **Lowercase**
 * **Uppercase**
