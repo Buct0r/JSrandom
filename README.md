@@ -23,5 +23,5 @@ The next two parameters are used for including lowercase and uppercase character
 The last two parameters are used for including numbers and symbols in your password.
 
 ## Conclusion
-For now the website will be hosted with Github Pages, but I'm already planning to buy a domain for the future. You can find it [here](https://buct0r.github.io/JSrandom/)
+At the moment the website will be hosted with Github Pages, but I'm already planning to buy a domain for the future. You can find it [here](https://buct0r.github.io/JSrandom/)
 
