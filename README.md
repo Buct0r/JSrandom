@@ -1,5 +1,5 @@
 ## Introducing 
-# JSrandom
+# **JSrandom**
 ![JSrandom logo](JSrandomlogo.png)
 ## A random password generator made with Javascript
 JSrandom is a secure random password generator, built in HTML, CSS and most importantly in Javascript.
