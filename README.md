@@ -25,4 +25,54 @@ The last two parameters are used for including numbers and symbols in your passw
 ## Conclusion
 At the moment the website will be hosted with Github Pages, but I'm already planning to buy a domain for the future. You can find it [here](https://buct0r.github.io/JSrandom/).  
 
+# Update 1.0
 
+With this first update I would like to introduce to you the offile version of JSrandom, made with python.
+
+### Installation
+
+#### Every platform
+Just use the web version you can find at this [link](https://buct0r.github.io/JSrandom/)
+
+#### Windows
+Go to the [release page](https://github.com/Buct0r/JSrandom/releases), download the executable and run it. As simple as that.
+You can also run the executable in the terminal, also because is a terminal application
+
+
+#### Linux
+On linux you can run the .exe file with [wine](https://github.com/wine-mirror/wine), a program that allows you to run windows executables on linux.
+If you have it installed just navigate to the app directory and type:
+```
+wine JSrandom.exe
+```
+
+In alternative you can download the python file and execute it if you have python installed on your machine. You can do it in two ways:
+```
+python JSrandom.py
+```
+or 
+```
+python3 JSrandom.py
+```
+
+or simply use chmod to make the file executable. Add this at the top of the file and save it:
+```
+#!/usr/bin/python
+```
+then
+```
+chmod +x JSrandom.py
+```
+
+and then:
+```
+./JSrandom.py
+```
+
+
+### Conclusion
+Since the executable is not signed, your antivirus will probably block it. If you want you can add an exeption in your antivirus settings or if you don't trust the exe, just download the python file and run it with python. 
+
+Thanks to skesko for the collaboration with the testing phase. :3
+
+Developed by Buct0r❤️
