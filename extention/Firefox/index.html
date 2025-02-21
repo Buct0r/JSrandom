@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <img src="logo.png" style="margin-top: 3px;">
+        <h1 id="title" style="margin-left: auto; margin-right: auto;">A random password generator made with Javascript</h1>
+        <div class="divs">
+            <label>Password length:</label><br>
+            <input type="number" id="Length" alt="Put here the length of the password you want to generate"><br>
+    
+            <label>Lowercase</label>
+            <input id="lower" class="check"  type="checkbox" alt="Check this if you want to include lowercase characters"><br>
+    
+            <label>Uppercase</label>
+            <input id="upper" class="check" type="checkbox" alt="Check this if you want to include uppercase characters"><br>
+    
+            <label>Symbols</label>
+            <input id="symb" class="check" type="checkbox"  alt="Check this if you want to include symbols"><br>
+    
+            <label>Numbers</label>
+            <input id="numb" class="check" type="checkbox" alt="Check this if you want to include numbers"><br><br>
+    
+            <button type="submit" id="generate" alt="click here to generate the password"><a>Generate</a></button><br><br>
+    
+            <span>Generated password:</span><br>
+            <div id="result">
+            <div type="text" id="Password" alt="There you have it, your generated password"></div><button id="copy"><svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#000000"><path d="M360-240q-29.7 0-50.85-21.15Q288-282.3 288-312v-480q0-29.7 21.15-50.85Q330.3-864 360-864h384q29.7 0 50.85 21.15Q816-821.7 816-792v480q0 29.7-21.15 50.85Q773.7-240 744-240H360Zm0-72h384v-480H360v480ZM216-96q-29.7 0-50.85-21.15Q144-138.3 144-168v-552h72v552h456v72H216Zm144-216v-480 480Z"/></svg></button><br>
+            </div>   
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>

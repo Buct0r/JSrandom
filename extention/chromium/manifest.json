@@ -1,0 +1,13 @@
+{
+    "name": "JSrandom",
+    "author": "Buct0r",
+    "manifest_version": 3,
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    }
+}

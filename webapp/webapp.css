@@ -1,0 +1,104 @@
+body{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: rgb(83, 0, 83);
+}
+
+.divs{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: grey;
+    width: 900px;
+    height: auto;
+    background-color: grey;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 5px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    font-size: 2em;
+    padding: 5px;
+}
+
+#title{
+    font-size: 3em;
+    color: black;
+}
+
+#generate{
+    background: yellow;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: black;
+    border-width: 4px;
+    width: 200px;
+    height: 100px;
+    font-size: 43px;
+    text-align: center;
+}
+
+#generate:hover{
+    background: rgb(207, 207, 0);
+}
+
+#generate:active{
+    background: rgb(173, 173, 0);
+}
+
+#Length{
+    margin-top: 7px;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 50px;
+    font-size: 1.5em;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+}
+
+.check{
+    zoom: 1.5;
+    transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    transform-origin: 0 0;
+    -ms-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    margin-bottom: 10px;
+}
+
+#Password{
+    height: auto;
+    width: 890px;
+    text-align: center;
+    overflow-x: auto;
+    overflow-y: auto;
+    margin-bottom: 10px;
+}
+
+#result{
+    display: inline-block;
+}
+
+#copy{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    border: 2px solid;
+    margin-top: auto;
+    margin-left: 10px;
+}
+
+#copy:hover{
+    background-color: rgb(211, 210, 210);
+}
+
+#copy:active{
+    background-color: rgb(165, 165, 165);
+}

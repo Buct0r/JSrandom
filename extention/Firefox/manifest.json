@@ -1,0 +1,14 @@
+{
+ "manifest_version": 2,
+ "name": "JSrandom",
+ "version": "1.0",
+
+ "icons":{
+		"128": "logo.png"
+	},
+ "browser_action": {
+	"default_icon": "logo.png",
+	"default_title": "JSrandom",
+	"default_popup": "index.html"
+ }
+}

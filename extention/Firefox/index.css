@@ -1,0 +1,120 @@
+body{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: rgb(83, 0, 83);
+    width: 300px;
+}
+
+
+.divs{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: grey;
+    width: 200px;
+    height: auto;
+    background-color: grey;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 5px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding: 5px;
+    margin-bottom: 13px;
+    
+}
+
+.divs label{
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+
+
+
+#title{
+    font-size: 1em;
+    color: black;
+}
+
+#generate{
+    background: yellow;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+    width: 100px;
+    height: 45px;
+    text-align: center;
+    font-size: 1.4em;
+}
+
+#generate:hover{
+    background: rgb(207, 207, 0);
+}
+
+#generate:active{
+    background: rgb(173, 173, 0);
+}
+
+#Length{
+    margin-top: 7px;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 25px;
+    font-size: 1.5em;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+}
+
+.check{
+    zoom: 1.5;
+    transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    transform-origin: 0 0;
+    -ms-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    margin-bottom: 10px;
+    display: inline;
+}
+
+#Password{
+    height: auto;
+    width: 170px;
+    text-align: center;
+    overflow-x: auto;
+    overflow-y: auto;
+    margin: auto;
+    font-size: 0.7em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#result{
+    display: inline-block;
+}
+
+#copy{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border: 1px solid;
+    margin-top: auto;
+    margin-left: 5px;
+}
+
+#copy:hover{
+    background-color: rgb(211, 210, 210);
+}
+
+#copy:active{
+    background-color: rgb(165, 165, 165);
+}
+

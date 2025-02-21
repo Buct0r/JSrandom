@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: rgb(83, 0, 83);
+    font-size: 1.5em;
+}
+
+
+#main{
+    background-color: gray;
+    margin: 50px;
+    border: 1px solid;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    border: none;
+}
+
+#main p{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+#webapp-link{
+    color: rgb(255, 230, 0);
+    text-decoration: none;
+}
+
+#webapp-link:hover{
+    color: rgb(224, 202, 4);
+}
