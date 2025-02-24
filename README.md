@@ -22,12 +22,10 @@ The next two parameters are used for including lowercase and uppercase character
 ### Numbers and symbols
 The last two parameters are used for including numbers and symbols in your password.
 
-## Conclusion
-At the moment the website will be hosted with Github Pages, but I'm already planning to buy a domain for the future. You can find it [here](https://buct0r.github.io/JSrandom/).  
 
 # Update 1.0
 
-With this first update I would like to introduce to you the offile version of JSrandom, made with python.
+With this first update I would like to introduce to you the offline version of JSrandom, made with python.
 
 ### Installation
 
@@ -79,6 +77,8 @@ I'm also introducing the web extension of JSrandom for chromium based browsers a
 Since the executable is not signed, your antivirus will probably block it. If you want you can add an exeption in your antivirus settings or if you don't trust the exe, just download the python file and run it with python. 
 
 In the next week I will try to find a solution to add the extension to the Chrome web store.
+
+You can find the main website at this [link](https://buct0r.github.io/JSrandom/)
 
 Thanks to skesko for the collaboration with the testing phase. :3
 
