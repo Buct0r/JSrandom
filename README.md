@@ -32,7 +32,7 @@ With this first update I would like to introduce to you the offile version of JS
 ### Installation
 
 #### Every platform
-Just use the web version you can find at this [link](https://buct0r.github.io/JSrandom/)
+Just use the web version you can find at this [link](https://buct0r.github.io/JSrandom/webapp.html)
 
 #### Windows
 Go to the [release page](https://github.com/Buct0r/JSrandom/releases), download the executable and run it. As simple as that.
